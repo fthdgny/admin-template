@@ -1,2 +1,2 @@
 # admin-template
-Bitirme projemde kullandığım admin template dir.
+Php,html,css dilleri ile harmanlanmış çok kullanışlı admin templatedir.
